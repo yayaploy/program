@@ -60,7 +60,7 @@ body::before {
  
 </head>
 
-<h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、P-A、P-B、P-C!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、Program-A、Program-B、Program-C!!!</marquee></span></h1>
 
 
 <p align="left"> <img src="QR_program.jpg" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
