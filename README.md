@@ -65,11 +65,11 @@ body::before {
 
 <p align="left"> <img src="QR_suphattraland.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
-<div>
-<a href="プログラム A Price.pdf" data-lightbox="abc">プログラム-A</a>
-<a href="プログラムB Price.pdf" data-lightbox="abc">プログラム-B</a>
+<p>
+<a href="プログラム A Price.pdf" data-lightbox="abc">プログラム-A</a><br>
+<a href="プログラムB Price.pdf" data-lightbox="abc">プログラム-B</a><br>
 <a href="プログラムC Price.pdf" data-lightbox="abc">プログラム-C</a>
-
+</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
