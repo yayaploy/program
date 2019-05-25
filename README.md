@@ -63,7 +63,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、P-A、P-B、P-C!!!</marquee></span></h1>
 
 
-<p align="left"> <img src="QR_suphattraland.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
+<p align="left"> <img src="QR_program.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
 <p>
 <a href="プログラム A Price.pdf" data-lightbox="abc">プログラム-A</a><br>
