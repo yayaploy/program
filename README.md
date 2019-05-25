@@ -66,9 +66,14 @@ body::before {
 <p align="left"> <img src="QR_program.jpg" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
 <p>
-<a href="プログラム A Price.pdf" data-lightbox="abc">プログラム-A</a><br>
-<a href="プログラムB Price.pdf" data-lightbox="abc">プログラム-B</a><br>
-<a href="プログラムC Price.pdf" data-lightbox="abc">プログラム-C</a>
+<a href="p_a_1.png" data-lightbox="abc"><img src="p_a_1.png" alt="サンプル画像" width="900" /></a>
+<a href="p_a_2.png" data-lightbox="abc"><img src="p_a_2.png" alt="サンプル画像" width="900" /></a>
+<a href="p_b_1.png" data-lightbox="abc"><img src="p_b_1.png" alt="サンプル画像" width="900" /></a>
+<a href="p_b_2.png" data-lightbox="abc"><img src="p_b_2.png" alt="サンプル画像" width="900" /></a>
+<a href="p_c_1.png" data-lightbox="abc"><img src="p_c_1.png" alt="サンプル画像" width="900" /></a>
+<a href="p_c_2.png" data-lightbox="abc"><img src="p_c_2.png" alt="サンプル画像" width="900" /></a>
+<a href="p_c_3.png" data-lightbox="abc"><img src="p_c_3.png" alt="サンプル画像" width="900" /></a>
+
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
