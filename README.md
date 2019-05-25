@@ -60,8 +60,6 @@ body::before {
  
 </head>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 <h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、P-A、P-B、P-C!!!</marquee></span></h1>
 
 
