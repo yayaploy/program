@@ -61,16 +61,16 @@ body::before {
 </head>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span class="blue"><p align="right">@suphattraland</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、１、２、３!!!</marquee></span></h1>
+
+<h1><span class="yellow"><marquee behavior="lrft">!!! タイ、チェンマイ観光、P-1、P-2、P-3!!!</marquee></span></h1>
 
 
 <p align="left"> <img src="QR_suphattraland.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 
 <div>
-<a href="プログラム A Price.pdf" data-lightbox="abc"><img src="プログラム A Price.pdf" alt="サンプル画像" width="900" /></a>
-<a href="プログラムB Price.pdf" data-lightbox="abc"><img src="プログラムB Price.pdf" alt="サンプル画像" width="900" /></a>
-<a href="プログラムC Price.pdf" data-lightbox="abc"><img src="プログラムC Price.pdf" alt="サンプル画像" width="900" /></a>
+<a href="プログラム A Price.pdf" data-lightbox="abc"></a>
+<a href="プログラムB Price.pdf" data-lightbox="abc"></a>
+<a href="プログラムC Price.pdf" data-lightbox="abc"></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
